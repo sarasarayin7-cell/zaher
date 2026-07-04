@@ -905,7 +905,7 @@
       "deposit.brandSubtitle": "مركز الإيداع",
       "actions.refreshDeposit": "تحديث صفحة الإيداع",
       "deposit.title": "الإيداع باستخدام USDT.",
-      "deposit.subtitle": "اشحن حسابك فورًا بعملة USDT وابدأ نسخ أفضل المتداولين بحد أدنى للإيداع 0.01 USDT فقط.",
+      "deposit.subtitle": "اشحن حسابك فورًا  وابدأ الأن أفضل المتداولين بحد أدنى للإيداع 0.01  فقط.",
       "deposit.selectNetwork": "اختر الشبكة",
       "deposit.qrTitle": "رمز QR للإيداع",
       "deposit.qrNoteBep20": "امسح رمز QR أو انسخ عنوان محفظة BEP20 بالأسفل لإكمال إيداع USDT بسرعة.",
